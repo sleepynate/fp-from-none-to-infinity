@@ -1017,7 +1017,7 @@
    Implement an immutable binary tree. It should have an 'add'
    function which returns a copy of itself, with the new elements in
    the appropriate part of the tree.
-* Part 3
+* Functional Patterns
 ** Tail Recursion & Accumulator Pattern in ML
    #+BEGIN_NOTES
    - Tail-call recursion optimization is of just called "tail recursion"
