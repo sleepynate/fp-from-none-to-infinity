@@ -9,7 +9,7 @@
 #+EXPORT_SELECT_TAGS: export
 #+EXPORT_EXCLUDE_TAGS: noexport
 #+LINK_UP:
-#+LINK_HOME: https://git.io/vMRB1
+#+LINK_HOME: https://git.io/vNmGB
 #+REVEAL_PLUGINS: (highlight notes)
 #+REVEAL_THEME: night
 
