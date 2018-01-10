@@ -45,10 +45,9 @@
   - Along the way, I will guide you through several exercises that
     we'll do as a group so you don't have to worry about setting up
     archaic programming environments on your machine
-  - Once we've reviewed ML and Racket, we'll spend the remainder of
-    the session presenting practice problems and giving you time to
-    work on them in the language you normally work in, focusing on how
-    to create functional-styled solutions.
+  - After doing exercises as a group, I will present practice problems
+    and giving you time to work on them in the language you normally
+    work in, focusing on how to create functional-styled solutions.
   #+END_NOTES
   - Learn Functional Programming from scratch
   - Static & strongly typed functional language (ML)
@@ -63,7 +62,9 @@
     languages on their own, which is the best way to let new ideas
     sink in
   - We'll worry about how to apply the methodologies we have learned
-    from ML and Racket when we get to the exercises section.
+    from ML and Racket as we come to each of the exercises.
+  - Then, you'll take those ideas and apply them in whatever language
+    you normally use.
   #+END_NOTES
   - Ignore the FP concepts you've tried to learn already
   - Not compare to your normal language
@@ -162,7 +163,7 @@
     Gerald Sussman were over at MIT's AI Lab getting frustrated with
     understanding concurrency, and wrote a "tiny LISP interpreter"
   - What they ended up creating was one of the two main branches of
-    LISP ­ Scheme.
+    LISP - Scheme.
   - Of its 23 reserved words, 11 are just there for convenience and
     are really just combinations of the other 12 that are so common
     there's no reason not to put them in the language.
